@@ -23,8 +23,7 @@ Make sure you have Node.js installed on your machine. You can download it from [
 
 ### Installation
 1. Clone the repository:
-git clone https://github.com/himanshunegi0/rbac_dashboard-main
-
+git clone https://github.com/Akshit1984/rbac_dashboard
 2. Navigate to the project directory:
 cd rbac_dashboard-main
 
